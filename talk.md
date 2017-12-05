@@ -14,7 +14,7 @@ j - down
 k - up
 l - right
 
-Actions are nouns, example
+Actions are verbss, example
 
 d - delete
 y - yank!
