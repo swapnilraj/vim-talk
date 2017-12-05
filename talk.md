@@ -31,5 +31,6 @@ vim has a ton of plugins
 
 If you can't find a particular plugin, make one
 
-### Link to a good vimrc
+### Links:
 [Oisin's vimrc](https://github.com/oisincar/dotfiles/blob/master/.vimrc)
+[Performance Charts](https://medium.com/@caspervonb/why-i-still-use-vim-67afd76b4db6)
